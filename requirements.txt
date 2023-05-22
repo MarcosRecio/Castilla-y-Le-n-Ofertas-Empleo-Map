@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.2
 bs4==0.0.1
 folium==0.10.1
-requests==2.23.0
+requests==2.31.0
 git+git://github.com/psychemedia/ipython_magic_folium
